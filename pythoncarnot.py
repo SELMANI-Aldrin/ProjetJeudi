@@ -1,3 +1,3 @@
 print("Python carnot")
 x = 1
-print(x)
+print("La valeur de x est:", x)
